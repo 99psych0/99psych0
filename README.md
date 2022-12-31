@@ -3,7 +3,5 @@
 
 My Actual Projects:
 ```
-SkyClicker.PL
+Actual nothing....
 ```
-
-![SkyClicker.PL](https://i.imgur.com/M8VSIjU.png)
