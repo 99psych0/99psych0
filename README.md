@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm kub0vv_</h1>
-<h3 align="center">Beginner Java & PHP Developer</h3>
+<h1>eluwa mordy</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kub0vv&label=Profile%20views&color=0e75b6&style=flat" alt="kub0vv" /> </p>
 
